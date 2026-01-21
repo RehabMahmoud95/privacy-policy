@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated:** [Insert Date]
+**Last updated:** 15/1/2026
 
-This Privacy Policy explains how **[App Name]** ("we", "our", or "us") operates with respect to user privacy. The App is designed for software competitions and **does not collect, store, or process personal information** from users.
+This Privacy Policy explains how **software competition** ("we", "our", or "us") operates with respect to user privacy. The App is designed for software competitions and **does not collect, store, or process personal information** from users.
 
 By using the App, you acknowledge and agree to this Privacy Policy.
 
@@ -86,9 +86,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have questions about this Privacy Policy or our privacy practices, you may contact us at:
 
-**Email:** [contact@email.com]
-
-**Organization:** [Organization Name]
+**Email:** [rehabkhedeer@email.com]
 
 ---
 
