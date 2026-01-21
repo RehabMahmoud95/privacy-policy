@@ -3,7 +3,7 @@
 _Last updated: January 2026_
 
 ## Introduction
-This Privacy Policy describes how the **Rosary App** ("we", "our", or "the app") handles user information.  
+This Privacy Policy describes how the **Rosary App** ("we", "our", or "") handles user information.  
 We respect your privacy and are committed to protecting it.
 
 ## Information We Collect
